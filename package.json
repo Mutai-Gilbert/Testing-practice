@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "- Create a new GitHub repository for this exercise.",
+  "main": "taskOne.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mutai-Gilbert/Testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mutai-Gilbert/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/Mutai-Gilbert/Testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
